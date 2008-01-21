@@ -1,0 +1,11 @@
+Revision history for Perl extension Text::Tabulate
+
+2.0 Jan 2008
+	- added section hash object and tidied up.
+
+1.0 July 2007
+	- Turned into a module.
+
+0.5  2000s
+	- Initial creation as a utility script.
+
