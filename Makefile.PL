@@ -7,7 +7,11 @@ WriteMakefile (
 	dist		=> {COMPRESS => 'gzip', SUFFIX => 'gz'},
 
 	PREREQ_PM  => {
-		'Parse::RecDescent' => 1,
+		'Parse::RecDescent'	=> 1,
+		'Storable'		=> 2,
+		'Data::Dumper'		=> 1,
+		'Text::Abbrev'		=> 1,
+		'Carp'			=> 1,
 		},
 
 );

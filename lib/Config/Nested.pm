@@ -124,7 +124,7 @@ Nothing.
 
 package Config::Nested;
 
-$VERSION = '2.0';
+$VERSION = '2.0.1';
 
 use 5;
 use warnings;
